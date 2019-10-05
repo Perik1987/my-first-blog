@@ -122,5 +122,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/admin/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static"),
+    os.path.join(BASE_DIR, "/home/perik/perik.pythonanywhere.com/myproject/mysite/static"),
 ]
